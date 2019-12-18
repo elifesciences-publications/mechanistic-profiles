@@ -6,6 +6,8 @@ It runs on dummy data set mimiking ADNI data.
 
 The code is in Matlab and tested with V 2017 a). 
 
+#### This code is associated with the paper from Garbarino et al., "Differences in topological progression profile among neurodegenerative diseases from imaging data". eLife, 2017. http://doi.org/10.7554/eLife.49298
+
 ## Requirements
 * "Brain Connectivity Toolbox" (https://sites.google.com/site/bctnet/);
 * "npy-matlab" (https://github.com/kwikteam/npy-matlab)
